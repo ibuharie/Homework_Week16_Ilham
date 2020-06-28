@@ -1,5 +1,5 @@
 ## Week 16 Homework Submission File: Penetration Testing 1
-
+To view Screenshots, place the screenshots folder in the same directoy as this submission file.
 #### Step 1: Google Dorking
 
 
